@@ -1,3 +1,27 @@
 p { 
    color:red;
 }
+
+#id1 { 
+   color:blue;font-family: Times New Roman;
+}
+
+#id2{ 
+  text-align: center;
+  color:green; font-size: 22px;
+}
+
+.center{
+  text-align:center;
+  color:red;
+}
+
+.bluev{
+  text-align:center;font-size: 100px; font-family:impact;
+  color:purple;
+}
+
+.redv p {
+  color:blue; font-family: verdana;
+  font-size: 12px
+}
