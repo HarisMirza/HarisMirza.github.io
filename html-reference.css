@@ -1,1 +1,46 @@
+/*body color*/
+.mybodystyle{
+  background-color:lightcyan;
+
+  
+}
+/*title*/
+.mytitlestyle{
+  text-align: center;
+  font:bold 50px "Times New Roman",serif;
+  background-color:teal;
+  color:white;
+}
+/*table*/
+.mytablestyle th, td{
+  border:3px solid black;
+  font-family:Arial;
+  text-align:center;
+  border-collapse: collapse;
+}
+/*tr*/
+.mytrstyle{
+  font:bold 25px "Times New Roman",serif ;
+}
+/*headings*/
+h2{
+  color:white;
+  background-color:teal;
+  padding:10px;
+}
+/*small headings*/
+h3{
+  font:bold 5px;
+}
+/*examples*/
+.myexamplestyle{
+  width:300px;
+  padding:25px;
+  border:10px dashed purple ;
+  margin:25px;
+  color:black;
+  box-shadow: 10px 10px 5px darkgray;
+  background-color: lightyellow;
+}
+
 
