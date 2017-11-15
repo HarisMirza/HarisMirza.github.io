@@ -1,0 +1,64 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+/* Style the header */
+.header {
+    
+    
+    text-align: center;
+}
+
+/* Style the top navigation bar */
+.topnav {
+    overflow: hidden;
+    background-color: black;
+  
+}
+
+/* Style the topnav links */
+.topnav a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover:not(.active) {
+    background-color: lightblue;
+    color: black;
+}
+
+/* indicate active page on nav */
+.active {
+    background-color: lightblue;
+}
+
+
+
+
+
+/* Main Content */
+.main.content {
+    text-align:center;
+}
+h1{
+  font:verdana;
+  color:dodgerblue;
+  width:300px;
+  padding:10px;
+  border:5px solid dodgerblue;
+  margin:auto;
+  
+}
+
+
+
+
