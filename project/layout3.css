@@ -8,9 +8,13 @@ body {
 
 /* Style the header */
 .header {
-    
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-left: 80px;
+    padding-right: 80px;
     
     text-align: center;
+    background-color:lightyellow;
 }
 
 /* Style the top navigation bar */
@@ -41,7 +45,12 @@ body {
     background-color: lightblue;
 }
 
-
+/* A - Create three unequal columns that floats next to each other */
+.column {
+    float: left;
+   
+    
+}
 
 
 
