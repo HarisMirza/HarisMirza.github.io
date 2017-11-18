@@ -51,12 +51,26 @@ body {
    
     
 }
-
+.column.right{
+  float:right;
+}
 
 
 /* Main Content */
 .main.content {
-    text-align:center;
+   float:center;
+   text-align: left;
+    width:600px;
+    text-indent: 50px;
+    margin:auto;
+   
+}
+.main.content2{
+  float:center;
+  text-align: center;
+  margin:auto;
+  width:800px;
+  
 }
 h1{
   font:verdana;
@@ -67,7 +81,29 @@ h1{
   margin:auto;
   
 }
+h2{
+  font:verdana;
+  color:dodgerblue;
+  float:center;
+}
 
-
-
+img{
+width:500px;
+height:350px;
+padding:20px;
+}
+.video{
+ text-align:center;
+}
+h3{
+  color:seagreen;
+  font:25px verdana ;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+    text-align: left;
 
